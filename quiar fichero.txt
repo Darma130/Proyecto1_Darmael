@@ -1,1 +1,0 @@
-quitar fichero puerto_in-out. recuerden solo en la master va el proyecto funcionando y el txt con los integrantes
